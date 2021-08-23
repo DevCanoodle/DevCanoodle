@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @DevCanoodle
+ 👋 Hi, I’m @DevCanoodle, a blockchain developer, discord bot developer
+I can code in PHP, Java, JavaScript, Scilica, NodeJS, HTML/CSS.
 
 <!---
 DevCanoodle/DevCanoodle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
