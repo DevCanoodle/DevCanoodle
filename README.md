@@ -1,4 +1,4 @@
- 👋 Hi, I’m @DevCanoodle, a blockchain developer, discord bot developer
+ 👋 Hi, I’m @DevCanoodle, a blockchain developer, discord bot developer \n
 I can code in PHP, Java, JavaScript, Scilica, NodeJS, HTML/CSS.
 
 <!---
